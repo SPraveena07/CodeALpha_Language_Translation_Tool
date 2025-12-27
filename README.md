@@ -1,4 +1,4 @@
-🔊 AI-Powered Language Translation Tool
+ AI-Powered Language Translation Tool
 This project is a high-performance Language Translation Tool built using Python, Streamlit, and Google’s Neural Machine Translation (NMT) technology. It allows users to translate text between 100+ languages and includes a built-in Text-to-Speech (TTS) engine for pronunciation assistance.
 
 Tech Stack
